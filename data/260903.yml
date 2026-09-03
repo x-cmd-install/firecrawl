@@ -1,0 +1,75 @@
+about:
+  description: The context API to search, scrape, and interact with the web at scale. 🔥
+  license: AGPL-3.0
+  homepage: https://firecrawl.dev
+  head: e274395
+  archived: false
+  latestVersion: v2.11.0
+  collectedAt: 2026-09-03T05:12:42Z
+timeline:
+  created: 2024-04-15
+  lastCommit: 2026-09-02
+  lastRelease: 2026-06-19
+popularity:
+  star: 175807
+  watcher: 454
+  fork: 9629
+  release: 35
+  contributor: 162
+  pullRequest: 1386
+  issue: 963
+language:
+  TypeScript: 7293409
+  Python: 1411737
+  Rust: 343294
+  Java: 299246
+  PHP: 231864
+  C#: 143055
+  Go: 140449
+  Elixir: 140417
+  Ruby: 116708
+  Astro: 37259
+  PLpgSQL: 21131
+  JavaScript: 12725
+  Jupyter Notebook: 10546
+  Shell: 9808
+  Dockerfile: 6092
+  Rich Text Format: 5348
+  CSS: 5141
+  Makefile: 2111
+  HTML: 354
+  Procfile: 132
+totalLine: 10230826
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 3
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 10
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
