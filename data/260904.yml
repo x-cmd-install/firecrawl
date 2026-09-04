@@ -7,13 +7,13 @@ about:
   head: 43db5b6
   archived: false
   latestVersion: v2.11.0
-  collectedAt: 2026-09-04T20:17:43Z
+  collectedAt: 2026-09-04T20:25:49Z
 timeline:
   created: 2024-04-15
   lastCommit: 2026-09-04
   lastRelease: 2026-06-19
 popularity:
-  star: 176483
+  star: 176484
   watcher: 458
   fork: 9653
   release: 35
@@ -100,7 +100,7 @@ total:
   commit: 6255
 ---
 path: /home/runner/.x-repo/github.com/mendableai/firecrawl
-collectedAt: 2026-09-04T20:17:49Z
+collectedAt: 2026-09-04T20:25:54Z
 loc:
   TypeScript:
     code: 200232
