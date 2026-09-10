@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:06:44Z
+  collectedAt: 2026-09-10T23:44:12Z
 timeline:
   created: 2024-04-15
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 
 popularity:
-  star: 178749
-  watcher: 462
-  fork: 9726
+  star: 178824
+  watcher: 461
+  fork: 9730
   release: 35
   contributor: 163
-  pullRequest: 3484
+  pullRequest: 3485
   issue: 972
 language:
   TypeScript: 7577177
@@ -96,13 +96,13 @@ recent:
 total:
   release: 35
   mergedPR: 2059
-  openPR: 541
-  closedIssue: 892
-  openIssue: 80
+  openPR: 542
+  closedIssue: 893
+  openIssue: 79
   commit: 6285
 ---
 path: /home/runner/.x-repo/github.com/mendableai/firecrawl
-collectedAt: 2026-09-10T18:06:56Z
+collectedAt: 2026-09-10T23:44:24Z
 loc:
   TypeScript:
     code: 204369
