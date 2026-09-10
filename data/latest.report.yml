@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T20:27:42Z
+  collectedAt: 2026-09-10T06:22:53Z
 timeline:
   created: 2024-04-15
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 
 popularity:
-  star: 178343
-  watcher: 462
-  fork: 9714
+  star: 178498
+  watcher: 463
+  fork: 9720
   release: 35
   contributor: 163
-  pullRequest: 3470
+  pullRequest: 3471
   issue: 968
 language:
   TypeScript: 7572947
@@ -46,7 +46,7 @@ language:
 totalBytes: 10536907
 recent:
   last30d:
-    since: 2026-08-10
+    since: 2026-08-11
     release: 0
     mergedPR: 0
     openPR: 0
@@ -54,7 +54,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-07-11
+    since: 2026-07-12
     release: 0
     mergedPR: 0
     openPR: 0
@@ -62,7 +62,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 1
     mergedPR: 0
     openPR: 0
@@ -70,7 +70,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 3
     mergedPR: 0
     openPR: 0
@@ -78,7 +78,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 9
     mergedPR: 0
     openPR: 0
@@ -86,7 +86,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 34
     mergedPR: 0
     openPR: 0
@@ -96,13 +96,13 @@ recent:
 total:
   release: 35
   mergedPR: 2056
-  openPR: 532
-  closedIssue: 891
-  openIssue: 77
+  openPR: 533
+  closedIssue: 892
+  openIssue: 76
   commit: 6282
 ---
 path: /home/runner/.x-repo/github.com/mendableai/firecrawl
-collectedAt: 2026-09-09T20:27:57Z
+collectedAt: 2026-09-10T06:23:16Z
 loc:
   TypeScript:
     code: 204243
