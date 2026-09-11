@@ -2,12 +2,12 @@ about:
   description: "The context API to search, scrape, and interact with the web at scale. 🔥"
   license: AGPL-3.0
   homepage: https://firecrawl.dev
-  head: 96426f2
+  head: be71a21
   archived: false
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:19:39Z
+  collectedAt: 2026-09-11T18:37:16Z
 timeline:
   created: 2024-04-15
   lastCommit: 2026-09-11
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 
 popularity:
-  star: 178906
-  watcher: 461
-  fork: 9735
+  star: 179134
+  watcher: 462
+  fork: 9748
   release: 35
   contributor: 163
-  pullRequest: 3486
+  pullRequest: 3493
   issue: 972
 language:
-  TypeScript: 7582654
+  TypeScript: 7600335
   Python: 1417669
   Rust: 349860
   Java: 301674
@@ -43,7 +43,7 @@ language:
   Makefile: 2111
   HTML: 354
   Procfile: 132
-totalBytes: 10546614
+totalBytes: 10564295
 recent:
   last30d:
     since: 2026-08-12
@@ -95,20 +95,20 @@ recent:
     commit: 0
 total:
   release: 35
-  mergedPR: 2060
-  openPR: 542
+  mergedPR: 2063
+  openPR: 543
   closedIssue: 893
   openIssue: 79
-  commit: 6286
+  commit: 6289
 ---
 path: /home/runner/.x-repo/github.com/mendableai/firecrawl
-collectedAt: 2026-09-11T06:20:11Z
+collectedAt: 2026-09-11T18:37:29Z
 loc:
   TypeScript:
-    code: 204513
-    comments: 14713
-    blanks: 20826
-    files: 883
+    code: 204926
+    comments: 14752
+    blanks: 20859
+    files: 884
   Python:
     code: 39581
     comments: 1809
@@ -255,10 +255,10 @@ loc:
     blanks: 1
     files: 19
 total:
-  code: 327499
-  comments: 33671
-  blanks: 44001
-  files: 1628
+  code: 327912
+  comments: 33710
+  blanks: 44034
+  files: 1629
 ---
 
 ---
