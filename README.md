@@ -14,11 +14,11 @@ x install firecrawl
 
 ## Code insight
 
-Total: **320,486** lines of code across **1173** files in the top 5 languages.
+Total: **320,899** lines of code across **1174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 204,513 | 14,713 | 20,826 | 883 |
+| TypeScript | 204,926 | 14,752 | 20,859 | 884 |
 | Python | 39,581 | 1,809 | 6,373 | 178 |
 | Yaml | 23,944 | 70 | 3,966 | 46 |
 | Json | 15,638 | 0 | 25 | 39 |
@@ -37,11 +37,11 @@ Total: **320,486** lines of code across **1173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 178,906 · **Forks**: 9,735 · **Open issues**: 972 · **Contributors**: 163
+- **Stars**: 179,134 · **Forks**: 9,748 · **Open issues**: 972 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 2060 · **Open PRs**: 542 · **Closed issues**: 893 · **Open issues**: 79 · **Commits**: 6286
+- **Releases**: 35 · **Merged PRs**: 2063 · **Open PRs**: 543 · **Closed issues**: 893 · **Open issues**: 79 · **Commits**: 6289
 
 ## Recent activity
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:20:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:37:35Z._
