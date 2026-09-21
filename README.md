@@ -14,11 +14,11 @@ x install firecrawl
 
 ## Code insight
 
-Total: **334,255** lines of code across **1230** files in the top 5 languages.
+Total: **334,684** lines of code across **1230** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 216,839 | 15,480 | 21,832 | 937 |
+| TypeScript | 217,268 | 15,480 | 21,842 | 937 |
 | Python | 40,158 | 1,821 | 6,450 | 179 |
 | Yaml | 23,957 | 74 | 3,966 | 46 |
 | Json | 15,638 | 0 | 25 | 39 |
@@ -37,22 +37,22 @@ Total: **334,255** lines of code across **1230** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 182,359 · **Forks**: 9,856 · **Open issues**: 978 · **Contributors**: 164
+- **Stars**: 182,675 · **Forks**: 9,869 · **Open issues**: 980 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 2112 · **Open PRs**: 557 · **Closed issues**: 895 · **Open issues**: 83 · **Commits**: 6337
+- **Releases**: 35 · **Merged PRs**: 2117 · **Open PRs**: 557 · **Closed issues**: 895 · **Open issues**: 85 · **Commits**: 6342
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:27:07Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:45:39Z._
