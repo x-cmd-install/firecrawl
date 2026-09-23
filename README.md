@@ -4,7 +4,7 @@
 
 The web data API to search, scrape, and interact at scale. 🔥
 
-[![x-cmd/install — firecrawl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/firecrawl.svg)](https://x-cmd.com/install/firecrawl)
+[![x-cmd/install — firecrawl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/firecrawl.svg)](https://x-cmd.com/install/firecrawl)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install firecrawl
 
 ## Code insight
 
-Total: **336,841** lines of code across **1237** files in the top 5 languages.
+Total: **338,906** lines of code across **1241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 219,425 | 15,534 | 21,941 | 944 |
+| TypeScript | 221,241 | 15,733 | 22,115 | 948 |
 | Python | 40,158 | 1,821 | 6,450 | 179 |
 | Yaml | 23,957 | 74 | 3,966 | 46 |
 | Json | 15,638 | 0 | 25 | 39 |
-| Rust | 8,943 | 138 | 1,158 | 29 |
+| Rust | 9,191 | 138 | 1,182 | 29 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **336,841** lines of code across **1237** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.11.0` (2026-06-19)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 183,071 · **Forks**: 9,881 · **Open issues**: 980 · **Contributors**: 165
+- **Stars**: 183,525 · **Forks**: 9,893 · **Open issues**: 981 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 2125 · **Open PRs**: 557 · **Closed issues**: 896 · **Open issues**: 84 · **Commits**: 6350
+- **Releases**: 35 · **Merged PRs**: 2137 · **Open PRs**: 557 · **Closed issues**: 896 · **Open issues**: 85 · **Commits**: 6362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:46:48Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:44:20Z._
