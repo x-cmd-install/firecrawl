@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-The web data API to search, scrape, and interact at scale. 🔥
+🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 
 [![x-cmd/install — firecrawl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/firecrawl.svg?lang=zh)](https://x-cmd.com/install/firecrawl)
 
@@ -14,13 +14,13 @@ x install firecrawl
 
 ## 代码洞察
 
-合计: **345,571** 行代码（覆盖前 5 种语言、共 **1269** 个文件）。
+合计: **345,835** 行代码（覆盖前 5 种语言、共 **1270** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 227,634 | 15,911 | 22,649 | 974 |
+| TypeScript | 227,899 | 15,932 | 22,667 | 975 |
 | Python | 40,430 | 1,848 | 6,496 | 181 |
-| Yaml | 23,957 | 74 | 3,966 | 46 |
+| Yaml | 23,956 | 74 | 3,966 | 46 |
 | Json | 15,638 | 0 | 25 | 39 |
 | Rust | 9,191 | 138 | 1,182 | 29 |
 
@@ -33,26 +33,26 @@ x install firecrawl
 ## 发布
 
 - **最新版本**: `v2.11.0` (2026-06-19)
-- **最近提交**: 2026-09-28
+- **最近提交**: 2026-09-29
 
 ## 流行度
 
-- **Star**: 186,203 · **Fork**: 9,972 · **开放 issue**: 989 · **贡献者**: 166
+- **Star**: 186,783 · **Fork**: 9,989 · **开放 issue**: 989 · **贡献者**: 166
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 2166 · **开放 PR**: 606 · **已关闭 issue**: 900 · **开放 issue**: 89 · **提交数**: 6405
+- **发布数**: 35 · **已合并 PR**: 2171 · **开放 PR**: 612 · **已关闭 issue**: 900 · **开放 issue**: 89 · **提交数**: 6410
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-09 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-10 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ firecrawl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T07:10:28Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:54:33Z._
