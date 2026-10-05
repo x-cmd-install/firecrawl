@@ -37,22 +37,22 @@ Total: **370,091** lines of code across **1316** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 188,355 · **Forks**: 10,022 · **Open issues**: 993 · **Contributors**: 167
+- **Stars**: 188,697 · **Forks**: 10,026 · **Open issues**: 996 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 2230 · **Open PRs**: 428 · **Closed issues**: 903 · **Open issues**: 90 · **Commits**: 6469
+- **Releases**: 35 · **Merged PRs**: 2230 · **Open PRs**: 432 · **Closed issues**: 903 · **Open issues**: 93 · **Commits**: 6469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-07 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-09 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-14 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-08 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-10 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-15 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:09:57Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:55:00Z._
