@@ -2,34 +2,34 @@ about:
   description: "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥"
   license: AGPL-3.0
   homepage: https://firecrawl.dev
-  head: b4f2317
+  head: 7e6bd70
   archived: false
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T07:06:58Z
+  collectedAt: 2026-10-31T06:59:44Z
 timeline:
   created: 2024-04-15
-  lastCommit: 2026-10-30
+  lastCommit: 2026-10-31
   lastVersion: 2026-06-19
   lastRelease: 2026-06-19
   lastPrerelease: 
 popularity:
-  star: 196838
-  watcher: 494
-  fork: 10392
+  star: 197186
+  watcher: 495
+  fork: 10415
   release: 35
   contributor: 167
-  pullRequest: 4276
-  issue: 1023
+  pullRequest: 4310
+  issue: 1025
 language:
-  TypeScript: 9705406
+  TypeScript: 9694121
   Python: 1578078
   Rust: 448512
   Java: 376727
   PHP: 300347
   Elixir: 232259
-  Go: 211545
+  Go: 224612
   C#: 190747
   Ruby: 151323
   Astro: 38042
@@ -43,10 +43,10 @@ language:
   Makefile: 2111
   HTML: 259
   Procfile: 132
-totalBytes: 13301799
+totalBytes: 13303581
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 0
     openPR: 0
@@ -54,7 +54,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 0
     openPR: 0
@@ -62,7 +62,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
     mergedPR: 0
     openPR: 0
@@ -70,7 +70,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 2
     mergedPR: 0
     openPR: 0
@@ -78,7 +78,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 6
     mergedPR: 0
     openPR: 0
@@ -86,7 +86,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 34
     mergedPR: 0
     openPR: 0
@@ -95,20 +95,20 @@ recent:
     commit: 0
 total:
   release: 35
-  mergedPR: 2503
-  openPR: 593
+  mergedPR: 2516
+  openPR: 613
   closedIssue: 914
-  openIssue: 109
-  commit: 6730
+  openIssue: 111
+  commit: 6743
 ---
 path: /home/runner/.x-repo/github.com/mendableai/firecrawl
-collectedAt: 2026-10-30T07:07:11Z
+collectedAt: 2026-10-31T06:59:56Z
 loc:
   TypeScript:
-    code: 262120
-    comments: 18035
-    blanks: 26152
-    files: 1117
+    code: 262017
+    comments: 17985
+    blanks: 26108
+    files: 1118
   Python:
     code: 42766
     comments: 1858
@@ -120,9 +120,9 @@ loc:
     blanks: 23
     files: 36
   Yaml:
-    code: 16386
-    comments: 113
-    blanks: 2239
+    code: 16137
+    comments: 122
+    blanks: 2214
     files: 41
   Rust:
     code: 10817
@@ -140,10 +140,10 @@ loc:
     blanks: 1431
     files: 111
   Go:
-    code: 5281
-    comments: 506
-    blanks: 736
-    files: 25
+    code: 5570
+    comments: 556
+    blanks: 769
+    files: 26
   Elixir:
     code: 4906
     comments: 91
@@ -250,10 +250,10 @@ loc:
     blanks: 1
     files: 19
 total:
-  code: 412087
-  comments: 38425
-  blanks: 49804
-  files: 1928
+  code: 412041
+  comments: 38439
+  blanks: 49771
+  files: 1930
 ---
 
 ---
