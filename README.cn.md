@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 
 [![x-cmd/install — firecrawl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/firecrawl.svg?lang=zh)](https://x-cmd.com/install/firecrawl)
 
@@ -14,11 +14,11 @@ x install firecrawl
 
 ## 代码洞察
 
-合计: **398,537** 行代码（覆盖前 5 种语言、共 **1496** 个文件）。
+合计: **401,719** 行代码（覆盖前 5 种语言、共 **1501** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 273,685 | 17,704 | 27,128 | 1182 |
+| TypeScript | 276,867 | 17,814 | 27,424 | 1187 |
 | Python | 39,066 | 1,719 | 6,827 | 198 |
 | Rust | 18,537 | 267 | 1,858 | 46 |
 | Json | 16,712 | 0 | 21 | 29 |
@@ -37,22 +37,22 @@ x install firecrawl
 
 ## 流行度
 
-- **Star**: 204,597 · **Fork**: 10,725 · **开放 issue**: 1,036 · **贡献者**: 169
+- **Star**: 205,545 · **Fork**: 10,748 · **开放 issue**: 1,043 · **贡献者**: 169
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 2713 · **开放 PR**: 744 · **已关闭 issue**: 914 · **开放 issue**: 122 · **提交数**: 6938
+- **发布数**: 35 · **已合并 PR**: 2718 · **开放 PR**: 762 · **已关闭 issue**: 914 · **开放 issue**: 129 · **提交数**: 6943
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ firecrawl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T08:38:06Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:54:17Z._
