@@ -14,15 +14,15 @@ x install firecrawl
 
 ## Code insight
 
-Total: **405,252** lines of code across **1514** files in the top 5 languages.
+Total: **420,755** lines of code across **1557** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 280,384 | 17,988 | 27,800 | 1200 |
+| TypeScript | 296,284 | 18,489 | 29,173 | 1244 |
 | Python | 39,066 | 1,719 | 6,827 | 198 |
-| Rust | 18,537 | 267 | 1,858 | 46 |
-| Json | 16,728 | 0 | 21 | 29 |
-| Yaml | 16,118 | 125 | 2,202 | 41 |
+| Rust | 18,355 | 259 | 1,841 | 45 |
+| Json | 16,747 | 0 | 21 | 29 |
+| Yaml | 15,885 | 125 | 2,187 | 41 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **405,252** lines of code across **1514** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.11.0` (2026-06-19)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 208,386 · **Forks**: 10,890 · **Open issues**: 1,056 · **Contributors**: 170
+- **Stars**: 209,364 · **Forks**: 10,945 · **Open issues**: 1,056 · **Contributors**: 170
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 2747 · **Open PRs**: 783 · **Closed issues**: 915 · **Open issues**: 141 · **Commits**: 6972
+- **Releases**: 35 · **Merged PRs**: 2784 · **Open PRs**: 780 · **Closed issues**: 915 · **Open issues**: 141 · **Commits**: 7009
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:42:35Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:36:20Z._
