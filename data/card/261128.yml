@@ -1,0 +1,252 @@
+about:
+  description: "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+  license: AGPL-3.0
+  homepage: https://firecrawl.dev
+  head: 73aea36
+  archived: false
+  latestVersion: "v2.11.0"
+  latestRelease: "v2.11.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:37:08Z
+timeline:
+  created: 2024-04-15
+  lastCommit: 2026-11-28
+  lastVersion: 2026-06-19
+  lastRelease: 2026-06-19
+  lastPrerelease: 
+popularity:
+  star: 211911
+  watcher: 518
+  fork: 11166
+  release: 35
+  contributor: 170
+  pullRequest: 4871
+  issue: 1063
+language:
+  TypeScript: 4544548
+  Python: 1412131
+  Rust: 743826
+  Java: 391202
+  PHP: 304305
+  Go: 236260
+  Elixir: 232684
+  C#: 202729
+  Ruby: 154737
+  Astro: 38042
+  PLpgSQL: 21453
+  Dockerfile: 8353
+  Rich Text Format: 5348
+  JavaScript: 5077
+  CSS: 3306
+  Shell: 2874
+  Makefile: 2111
+  HTML: 259
+totalBytes: 8309245
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 34
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 35
+  mergedPR: 2804
+  openPR: 694
+  closedIssue: 918
+  openIssue: 145
+  commit: 7029
+---
+path: /home/runner/.x-repo/github.com/mendableai/firecrawl
+collectedAt: 2026-11-28T09:37:19Z
+loc:
+  TypeScript:
+    code: 130399
+    comments: 6171
+    blanks: 11761
+    files: 503
+  Python:
+    code: 39159
+    comments: 1727
+    blanks: 6845
+    files: 198
+  Rust:
+    code: 18833
+    comments: 265
+    blanks: 1894
+    files: 49
+  Json:
+    code: 16734
+    comments: 0
+    blanks: 21
+    files: 29
+  Yaml:
+    code: 13711
+    comments: 125
+    blanks: 3040
+    files: 40
+  Php:
+    code: 7234
+    comments: 1007
+    blanks: 1369
+    files: 99
+  Java:
+    code: 7098
+    comments: 1519
+    blanks: 1476
+    files: 113
+  Go:
+    code: 5830
+    comments: 577
+    blanks: 794
+    files: 28
+  Elixir:
+    code: 4905
+    comments: 91
+    blanks: 753
+    files: 11
+  CSharp:
+    code: 4436
+    comments: 646
+    blanks: 1063
+    files: 51
+  Ruby:
+    code: 3464
+    comments: 509
+    blanks: 553
+    files: 41
+  Jupyter:
+    code: 341
+    comments: 68
+    blanks: 69
+    files: 5
+  Toml:
+    code: 324
+    comments: 15
+    blanks: 33
+    files: 10
+  Sql:
+    code: 226
+    comments: 59
+    blanks: 48
+    files: 1
+  JavaScript:
+    code: 187
+    comments: 24
+    blanks: 51
+    files: 7
+  Css:
+    code: 156
+    comments: 9
+    blanks: 6
+    files: 1
+  Dockerfile:
+    code: 148
+    comments: 38
+    blanks: 53
+    files: 4
+  Sh:
+    code: 141
+    comments: 39
+    blanks: 24
+    files: 2
+  Kotlin:
+    code: 59
+    comments: 0
+    blanks: 13
+    files: 2
+  Makefile:
+    code: 58
+    comments: 14
+    blanks: 15
+    files: 1
+  MsBuild:
+    code: 47
+    comments: 1
+    blanks: 10
+    files: 2
+  Svg:
+    code: 31
+    comments: 0
+    blanks: 0
+    files: 5
+  VisualStudioSolution:
+    code: 24
+    comments: 0
+    blanks: 1
+    files: 1
+  Pan:
+    code: 17
+    comments: 0
+    blanks: 1
+    files: 1
+  Html:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Rakefile:
+    code: 7
+    comments: 1
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4567
+    blanks: 2108
+    files: 78
+  Text:
+    code: 0
+    comments: 77
+    blanks: 1
+    files: 19
+total:
+  code: 255785
+  comments: 19685
+  blanks: 32673
+  files: 1303
+---
+
+---
